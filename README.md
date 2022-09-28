@@ -18,6 +18,8 @@ Descrições das atividades realizadas:
 - Aula 3- Gerência de dependência
 - Aula 4 - Git/GitHub
 - Aula 5 - Readme
+- Aula 6 - Api
+- Aula 7 - Jest
 
 
 ##
