@@ -10,10 +10,16 @@ Outros requisitos importantes:
 > O projeto deve ser colocado no GitHub e deve conter um README.
 
 • Comandos importantes e necessários:
-npm install --save jest
-npm install --save express
-npm install --save cors
-npm install --save http-status-codes
-npm install --save validate.js
-npm install --save moongose
-npm install --save uuid
+- npm install --save jest
+- npm install --save express
+- npm install --save cors
+- npm install --save http-status-codes
+- npm install --save validate.js
+- npm install --save moongose
+- npm install --save uuid
+
+## Ferramentas utilizadas
+
+- Node.js
+- MongoDB
+- Jest
