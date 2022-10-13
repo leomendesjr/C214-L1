@@ -20,6 +20,7 @@ Descrições das atividades realizadas:
 - Aula 5 - Readme
 - Aula 6 - Api
 - Aula 7 - Jest
+- Aula 8_9 - Teste Mock
 
 
 ##
