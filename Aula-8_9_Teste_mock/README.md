@@ -1,16 +1,19 @@
-# API - Carros
+Exercicio Aula 8 e 9 - Teste mock
 ---
-
 ## Descrição
----
 
-Repositório contendo um exemplo de API para a criação de um estoque de carros
+Utilizando os conhecimentos adquiridos nas últimas aulas sobre criação de APIs REST, construção de CRUD, testes unitários, testes mock e GIT, crie todas as funções básicas de um CRUD de CARRO (os parâmetros a serem salvos podem ser decididos por vocês) e realize todos os testes necessários (unitários e mock).
 
-- Banco de dados: MongoDB
-- Framework: Node js
-- Testes: jest
+Outros requisitos importantes:
+> Você pode escolher utilizar o banco de dados que quiser.
+> Deve haver validação dos dados.
+> O projeto deve ser colocado no GitHub e deve conter um README.
 
----
-#### Tiago de Morais Pereira - GEC 1599
-
----
+• Comandos importantes e necessários:
+npm install --save jest
+npm install --save express
+npm install --save cors
+npm install --save http-status-codes
+npm install --save validate.js
+npm install --save moongose
+npm install --save uuid
