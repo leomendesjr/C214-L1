@@ -21,6 +21,8 @@ Descrições das atividades realizadas:
 - Aula 6 - Api
 - Aula 7 - Jest
 - Aula 8_9 - Teste Mock
+- Aula 10 - GitHub Actions
+- Aula 11 - Design Patterns
 
 
 ##
